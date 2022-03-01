@@ -1,2 +1,2 @@
 # SKIP-DPCRN-samples
-Some exemplary samples described in paper: 
+Some exemplary audio samples described in paper: 
