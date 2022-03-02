@@ -18,3 +18,13 @@ long_audio_set\
 |  &ensp; &ensp; |--\*.wav\
 |  &ensp; &ensp; |...\
 |  &ensp; &ensp;  ...
+|\
+|--MUSAN_WSJ\
+|  &ensp; |--noisy\
+|  &ensp; |--DPCRN-base\
+|  &ensp; ...\
+|\
+|--NOISEX_WSJ\
+|  &ensp; |--noisy\
+|  &ensp; |--DPCRN-base\
+|  &ensp; ...
