@@ -3,9 +3,9 @@ Some exemplary audio samples described in ""
 
 long_audio_set\
 |--clean\
-|   |--\*.wav\
-|   |...\
+|  &ensp; |--\*.wav\
+| &ensp;  |...\
 |--noisy\
-|   |--\*.wav\
-|   |...\
+|  &ensp; |--\*.wav\
+| &ensp;  |...\
 |--\
