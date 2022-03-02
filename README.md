@@ -17,4 +17,4 @@ long_audio_set\
 |  &ensp; |--gamma_\*\
 |  &ensp; &ensp; |--\*.wav\
 |  &ensp; &ensp; |...\
-|  &ensp; &ensp;  ...\
+|  &ensp; &ensp;  ...
