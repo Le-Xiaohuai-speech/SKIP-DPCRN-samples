@@ -13,6 +13,7 @@ long_audio_set\
 |  &ensp; &ensp; |--\*.wav\
 |  &ensp; &ensp; |...\
 |  &ensp; &ensp;  ...\
+|\
 |--ideal_vad_label_enhanced\
 |  &ensp; |--gamma_\*\
 |  &ensp; &ensp; |--\*.wav\
