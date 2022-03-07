@@ -23,9 +23,9 @@ long_audio_set\
 MUSAN_WSJ\
 |--noisy\
 |--DPCRN-base\
-...\
+...
 
 NOISEX_WSJ\
 |--noisy\
 |--DPCRN-base\
-...\
+...
