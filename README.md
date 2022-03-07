@@ -1,5 +1,5 @@
 # SKIP-DPCRN-samples
-Some exemplary audio samples described in ""
+Some exemplary audio samples for the models in the submitted manuscript for IEEE/ACM TASLP.
 
 long_audio_set\
 |--clean\
